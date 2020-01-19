@@ -1,0 +1,69 @@
+initial weights for neuron 1:0.71,0.75,0.28,0.68,0.66,0.16,0.12,0.50,
+initial weights for neuron 2:0.96,0.34,0.59,0.22,0.75,0.26,0.51,0.70,
+initial weights for neuron 3:0.89,0.96,0.55,0.14,0.15,0.26,0.84,0.25,
+Final weights for neuron 1:-0.11,0.14,0.29,0.47,0.69,-0.10,-1.00,0.47,
+Final weights for neuron 2:0.30,-0.62,0.39,-0.05,0.12,0.01,0.71,0.56,
+Final weights for neuron 3:-0.13,-0.08,0.48,-0.26,-0.15,0.06,0.86,0.20,
+total iterations used:58193
+
+Confusion matrix  
+			   Actual Canadian    Actual Rosa     Actual Kama
+Predicted Canadian		13			0			2
+Predicted Rosa			0			13			0
+Prdicted Kama			2			2			13
+
+Precision (Canadian):	0.867
+Precision (Rosa):	1.000
+Precision (Kama):	0.765
+
+Recall (Canadian):	0.867
+Recall (Rosa):		0.867
+Recall (Kama):		0.867
+
+
+Predicted and expected values of test data:
+Expected: 1 Predicted: 1
+Expected: 1 Predicted: 1
+Expected: 1 Predicted: 1
+Expected: 1 Predicted: 1
+Expected: 1 Predicted: 1
+Expected: 1 Predicted: 1
+Expected: 1 Predicted: 1
+Expected: 1 Predicted: 2
+Expected: 2 Predicted: 2
+Expected: 2 Predicted: 2
+Expected: 2 Predicted: 2
+Expected: 2 Predicted: 2
+Expected: 2 Predicted: 2
+Expected: 2 Predicted: 2
+Expected: 2 Predicted: 2
+Expected: 3 Predicted: 3
+Expected: 3 Predicted: 3
+Expected: 3 Predicted: 3
+Expected: 3 Predicted: 3
+Expected: 3 Predicted: 3
+Expected: 3 Predicted: 3
+Expected: 3 Predicted: 3
+Expected: 3 Predicted: 1
+Expected: 1 Predicted: 1
+Expected: 1 Predicted: 1
+Expected: 1 Predicted: 1
+Expected: 1 Predicted: 3
+Expected: 1 Predicted: 1
+Expected: 1 Predicted: 1
+Expected: 1 Predicted: 3
+Expected: 2 Predicted: 2
+Expected: 2 Predicted: 2
+Expected: 2 Predicted: 2
+Expected: 2 Predicted: 3
+Expected: 2 Predicted: 2
+Expected: 2 Predicted: 2
+Expected: 3 Predicted: 2
+Expected: 2 Predicted: 3
+Expected: 3 Predicted: 3
+Expected: 3 Predicted: 1
+Expected: 3 Predicted: 1
+Expected: 3 Predicted: 3
+Expected: 3 Predicted: 3
+Expected: 3 Predicted: 3
+Expected: 3 Predicted: 3
